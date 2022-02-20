@@ -3,40 +3,29 @@ h1 {
  font-size: 50px;
  text-align: center;
  margin-top: 70px;
- font-family: serif;
-  
-
-
 }
 
-figure{
-    float:left;
-    width: 50%;
-    
-
-}
-img{
-    width: 200px;
-    border-style: groove;
-
-}
-ul,li{
-    display: inline-flex;
-}
-figcaption{
-    font-size: 18px;
-
+.imgcapa{
+    width: 250px;
    
+    margin-left: auto;
+    margin-right: auto;
+    
+ 
 }
-p{
-     padding-right: 5%;
 
+.center {  
+    width:250px;
+    margin-top: auto;
+    position: absolute;
+    margin-bottom: auto;
+    display: inline;
+    
+    
 }
 body{
-    border-style:inset;
-    border-width: 50px;
+    align-items: center;
 }
-footer{
-    border-style:inset;
-    border-width: 50px;
+.positionrelative{
+    position: relative;
 }
